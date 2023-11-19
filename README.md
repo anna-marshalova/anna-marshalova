@@ -5,7 +5,7 @@
 |🚦[Trafiic sign detection](https://github.com/Aillustrate/traffic-sign-detection)|Detection of traffic signs with YOLO on the RSTD dataset. Team project|Nov 2023|🕔|
 |🏠[Interior images generation](https://github.com/Aillustrate/wonderslide-interior-generation)|Interior images generation with automatic prompt-engineering LLMs + Stable Diffusion. Team project|since Sept 2023|🕔|
 |🎨[Aillustrate](https://github.com/Aillustrate/bootcamp-hackathon)| Service for image generation which requires no prompt-engineering. Team project| Sept 2023|✅|
-|[Spell corrector and HTML annotator](https://github.com/NLP-hack/html_text_cleaner)|Automatic spelling corrector and HTML annotator for Russian. Team project. First prize on a hackathon.| Sept 2023|✅|
+|📝[Spell corrector and HTML annotator](https://github.com/NLP-hack/html_text_cleaner)|Automatic spelling corrector and HTML annotator for Russian. Team project. First prize on a hackathon.| Sept 2023|✅|
 |🤸‍♂️[Fall detection](https://github.com/anna-marshalova/fall-detection)|A simple model for detecting people who have fallen down|Jul 2023|✅|
 |🍋[Squeezy](https://github.com/anna-marshalova/text_simplifier)|Text simplifier based on fine-tuned T5 model| Apr - Jun 2023|✅|
 |🤖[**TERMinator: aspects**](https://github.com/anna-marshalova/automatic-aspect-extraction-from-scientific-texts)|**Tool for automatic aspect extraction from Russian scientific texts based on fine-tuned BERT model**| Sept 2021 - Jun 2023|✅|
