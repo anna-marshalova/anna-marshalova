@@ -1,6 +1,3 @@
-## Interests: 
-ML, DL, NLP
-
 ## Finished projects
 - Automatic spelling corrector and HTML annotator for Russian
 - Aillustrate: service for image generation which requires no prompt-engineering
