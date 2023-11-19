@@ -1,3 +1,8 @@
+# 👋Hi there
+I'm Anna Marshalova:  ML, DL and NLP enthusiast, ITMO student and NSU graduate.  
+
+Here are some of my projects.
+
 ## 💡Projects
 
 |Name|Description|Time|Status|
@@ -22,4 +27,4 @@
   |🦜[Mlcourse.ai](https://github.com/anna-marshalova/mlcourse.ai-assignments)|Open Machine Learning Course from ODS|since June 2023|🕔|
   |😊[NLP course](https://github.com/anna-marshalova/methods-and-algorithms-of-computational-linguistics)| NLP course at NSU: sentiment analysis with TF-IDF + logreg and CNN + fastText|Sept - Dec 2021|✅|
 
-Sorry, some repos are currently private :(
+  Sorry, some repos of the running projects are currently private :(
