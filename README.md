@@ -1,6 +1,5 @@
 # 👋Hi there
 I'm Anna Marshalova:  ML, DL and NLP enthusiast, ITMO student and NSU graduate.  
-
 Here are some of my projects.
 
 ## 💡Projects
