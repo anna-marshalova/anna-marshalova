@@ -1,5 +1,9 @@
 # 👋Hi there
-I'm Anna Marshalova:  ML, DL and NLP enthusiast, ITMO student and NSU graduate.  
+I'm Anna Marshalova:  
+- Data Scientist at [DCS](https://dc-s.ru/)
+- ML, DL and NLP enthusiast
+- ITMO student and NSU graduate.  
+
 Here are some of my projects.
 
 ## 💡Projects
