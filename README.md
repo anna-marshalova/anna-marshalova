@@ -6,7 +6,7 @@ Here are some of my projects.
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
-|🚦[Trafiic sign detection](https://github.com/Aillustrate/traffic-sign-detection)|Detection of traffic signs with YOLO on the [RTSD](https://www.kaggle.com/datasets/watchman/rtsd-dataset) dataset. Team project|Nov 2023|🕔|
+|🚦[Trafiic sign detection](https://github.com/Aillustrate/traffic-sign-detection)|Detection of traffic signs with YOLO on the [RTSD](https://www.kaggle.com/datasets/watchman/rtsd-dataset) dataset. Team project|Nov 2023|✅|
 |🏠[Interior images generation](https://github.com/Aillustrate/wonderslide-interior-generation)|Interior images generation with automatic prompt-engineering using LLM (Mistral) + Stable Diffusion for [Wonderslide](https://wonderslide.com/) - AI presentation maker. Team project|since Sept 2023|🕔|
 |🎨[Aillustrate](https://github.com/Aillustrate/bootcamp-hackathon)| Service for image generation which requires no prompt-engineering. Uses LLM (Llama 2) + Stable Diffusion. Team project ([video](https://www.youtube.com/watch?v=9X1iuRFEuts))| Sept 2023|✅|
 |📝[Spell corrector and HTML annotator](https://github.com/NLP-hack/html_text_cleaner)|Automatic spelling corrector and HTML annotator for Russian. Team project. First prize on a [hackathon](https://xn--80aegcbawovqtiw4l.xn--p1ai)| Sept 2023|✅|
