@@ -23,7 +23,7 @@ I'm Anna Marshalova:
   
   |Name|Description|Time|Status|
   |----|-----------|----|------|
-  |🎬[RecSys course](https://github.com/anna-marshalova/RecoService)|Recommendation system course at AI Talent Hub, ITMO|Nov - Dec 2023|🕔|
+  |🎬[RecSys course](https://github.com/anna-marshalova/RecoService)|Recommendation system course at AI Talent Hub, ITMO|Nov - Dec 2023|✅|
   |📚[Data-centric AI course](https://github.com/anna-marshalova/ai-generated-essays-detection)|Data-centric AI course at AI Talent Hub, ITMO|Nov - Dec 2023|🕔|
   |🗜[Model compression course](https://github.com/NeuroCrushers/model-compression-course)|Team project at AI Talent Hub, ITMO, exploring diffent methods of model compression|Sept - Oct 2023|✅|
   |🦜[Mlcourse.ai](https://github.com/anna-marshalova/mlcourse.ai-assignments)|[Open Machine Learning Course](https://github.com/anna-marshalova/mlcourse.ai-assignments) from ODS|since June 2023|🕔|
