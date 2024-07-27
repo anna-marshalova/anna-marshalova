@@ -1,6 +1,6 @@
 # 👋Hi there
 I'm Anna Marshalova:  
-- Data Scientist at [DCS](https://dc-s.ru/)
+- AI Researcher & Developer at [MTS AI](https://mts.ai/)
 - ML, DL and NLP enthusiast
 - ITMO student and NSU graduate.  
 
