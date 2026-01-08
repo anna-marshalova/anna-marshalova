@@ -2,7 +2,7 @@
 I'm Anna Marshalova:  
 - AI Researcher & Developer at [MWS AI](https://mts.ai/)
 - ML, DL and NLP enthusiast
-- ITMO student and NSU graduate.  
+- ITMO and NSU graduate.  
 
 ## 💡Projects
 
