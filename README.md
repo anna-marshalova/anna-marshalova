@@ -8,6 +8,7 @@ I'm Anna Marshalova:
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
+|🛩️[AI Travel Guide](https://github.com/anna-marshalova/ai-travel-guide)|RAG-based travelling assistant. Team project|Dec 2024|✅|
 |💼[CV Enhancer](https://github.com/Aillustrate/CV-enhancer)|AI-powered CV enhancer. Team project|Dec 2023|✅|
 |🚦[Trafiic sign detection](https://github.com/Aillustrate/traffic-sign-detection)|Detection of traffic signs with YOLO on the [RTSD](https://www.kaggle.com/datasets/watchman/rtsd-dataset) dataset. Team project|Nov 2023|✅|
 |🎨[**Aillustrate**](https://github.com/Aillustrate/aillustrate)|**Image generation pipeline with automatic prompt-engineering using LLM (Mistral) + Stable Diffusion for an AI presentation maker. Team project**|Sept 2023 - Jan 2024|✅|
