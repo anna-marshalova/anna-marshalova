@@ -8,6 +8,7 @@ I'm Anna Marshalova:
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
+|👥[Zoom report service](https://github.com/Aillustrate/automatic_zoom_reports)|Service for Zoom conferences summarization. Team project|Oct 2024 - Jun 2025|✅|
 |🛩️[AI Travel Guide](https://github.com/anna-marshalova/ai-travel-guide)|RAG-based travelling assistant. Team project|Dec 2024|✅|
 |💼[CV Enhancer](https://github.com/Aillustrate/CV-enhancer)|AI-powered CV enhancer. Team project|Dec 2023|✅|
 |🚦[Trafiic sign detection](https://github.com/Aillustrate/traffic-sign-detection)|Detection of traffic signs with YOLO on the [RTSD](https://www.kaggle.com/datasets/watchman/rtsd-dataset) dataset. Team project|Nov 2023|✅|
