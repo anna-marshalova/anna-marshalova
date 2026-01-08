@@ -1,6 +1,6 @@
 # 👋Hi there
 I'm Anna Marshalova:  
-- AI Researcher & Developer at [MTS AI](https://mts.ai/)
+- AI Researcher & Developer at [MWS AI](https://mts.ai/)
 - ML, DL and NLP enthusiast
 - ITMO student and NSU graduate.  
 
@@ -24,11 +24,13 @@ I'm Anna Marshalova:
   
   |Name|Description|Time|Status|
   |----|-----------|----|------|
+  |🧪[A/B Testing Course](https://github.com/anna-marshalova/aith_ab_tests)|A/B-testing course course at AI Talent Hub, ITMO|Sept - Dec 2024|✅|
   |🖼[Generative models course](https://github.com/anna-marshalova/deep_gen_models_course)|Deep generative models course at AI Talent Hub, ITMO|Feb - May 2024|✅|
   |🎬[RecSys course](https://github.com/anna-marshalova/RecoService)|Recommendation system course at AI Talent Hub, ITMO|Nov - Dec 2023|✅|
   |📚[Data-centric AI course](https://github.com/anna-marshalova/ai-generated-essays-detection)|Data-centric AI course at AI Talent Hub, ITMO|Nov - Dec 2023|✅|
   |🗜[Model compression course](https://github.com/NeuroCrushers/model-compression-course)|Team project at AI Talent Hub, ITMO, exploring diffent methods of model compression|Sept - Oct 2023|✅|
   |🦜[Mlcourse.ai](https://github.com/anna-marshalova/mlcourse.ai-assignments)|[Open Machine Learning Course](https://github.com/anna-marshalova/mlcourse.ai-assignments) from ODS|since June 2023|✅|
   |😊[NLP course](https://github.com/anna-marshalova/methods-and-algorithms-of-computational-linguistics)| NLP course at NSU: sentiment analysis with TF-IDF + logreg and CNN + fastText|Sept - Dec 2021|✅|
+  
 
   Sorry, some repos of the running projects are currently private :(
